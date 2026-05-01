@@ -17,17 +17,8 @@ videos/
 # Claude Code internal
 .claude/
 
-# PPO experimental variants (ppo_env.py stays, variants excluded)
-crowd_nav/ppo_env_gaussian.py
-crowd_nav/ppo_env_v2.py
-crowd_nav/ppo_env_v3a.py
-crowd_nav/ppo_env_v3b.py
-crowd_nav/ppo_env_v3c.py
-crowd_nav/ppo_env_v3d.py
-crowd_nav/ppo_env_v4a.py
-crowd_nav/ppo_env_v4b.py
-crowd_nav/ppo_env_v4c.py
-crowd_nav/finetune_ppo.py
+# Report/video generation outputs (scripts excluded, not strategies)
+
 
 # Report/video generation scripts and outputs
 crowd_nav/generate_report.py
